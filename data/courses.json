@@ -1,0 +1,29 @@
+[
+    {
+        "_id": "100",
+        "category_id": "4",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_enrolled": 298,
+        "title": "AJAX Development",
+        "author": {
+          "name": "Mark Lassoff",
+          "published_date": "2022-08-24 17:27:34"
+        },
+        "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.elancesoftech.com%2Fajax-development%2F&psig=AOvVaw2a2-SGCurn2iNqwImu6PxS&ust=1666807992308000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKjr0uT9-_oCFQAAAAAdAAAAABAN",
+        "details": "What you'll learn - Understand the basics of Ajax interactions. To Update the Browser Window's HTML content dynamically through the DOM. To Understand the Role of a Web Server in Ajax. To Dynamically Create and Send Parameterized Queries to a Server. To Receive and Parse JSON Objects in the DOM "
+    },
+    {
+        "_id": "200",
+        "category_id": "4",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_enrolled": 464,
+        "title": "Learn Perl 5 By Doing It",
+        "author": {
+          "name": "John Purcell",
+          "published_date": "2018-06-25 17:27:34"
+        },
+        "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fstackify.com%2Fwhat-is-c-used-for%2F&psig=AOvVaw3YiJr4SSfH9O_GZTmbddOz&ust=1666808296393000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJjdy_j--_oCFQAAAAAdAAAAABAD",
+        "details": "Learn Perl by actually creating useful, working Perl programs for everything from web scraping to fixing your data.. What you'll learn - Learn how to use Perl for a variety of common tasks. Learn how to use regular expressions."
+    }
+
+]
