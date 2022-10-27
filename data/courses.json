@@ -9,7 +9,7 @@
           "name": "Mark Lassoff",
           "published_date": "2022-08-24 17:27:34"
         },
-        "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.elancesoftech.com%2Fajax-development%2F&psig=AOvVaw2a2-SGCurn2iNqwImu6PxS&ust=1666807992308000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKjr0uT9-_oCFQAAAAAdAAAAABAN",
+        "image_url": "https://www.w3care.com/images/uploads/technologies/web-graphic-design/ajax--banner.jpg",
         "details": "What you'll learn - Understand the basics of Ajax interactions. To Update the Browser Window's HTML content dynamically through the DOM. To Understand the Role of a Web Server in Ajax. To Dynamically Create and Send Parameterized Queries to a Server. To Receive and Parse JSON Objects in the DOM "
     },
     {
@@ -22,8 +22,138 @@
           "name": "John Purcell",
           "published_date": "2018-06-25 17:27:34"
         },
-        "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fstackify.com%2Fwhat-is-c-used-for%2F&psig=AOvVaw3YiJr4SSfH9O_GZTmbddOz&ust=1666808296393000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJjdy_j--_oCFQAAAAAdAAAAABAD",
+        "image_url": "https://i.ytimg.com/vi/IoLVCEr207w/sddefault.jpg",
         "details": "Learn Perl by actually creating useful, working Perl programs for everything from web scraping to fixing your data.. What you'll learn - Learn how to use Perl for a variety of common tasks. Learn how to use regular expressions."
+    },
+    {
+        "_id": "300",
+        "category_id": "2",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_enrolled": 466,
+        "title": "Photoshop Master Course: From Beginner to Photoshop Pro",
+        "author": {
+          "name": "Manfred Werner",
+          "published_date": "2028-06-25 17:27:34"
+        },
+        "image_url": "https://i.ytimg.com/vi/prO7jJwlOXY/maxresdefault.jpg",
+        "details": "What you'll learn - LCustomize the programs layout & feel comfortable, Understand setting color profiles, save PSD files & web files. What you'll learn - Learn how to use Perl for a variety of common tasks. Learn how to use regular expressions."
+    },
+    {
+        "_id": "400",
+        "category_id": "2",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_enrolled": 364,
+        "title": "Feng Shui The Easiest Way",
+        "author": {
+          "name": "Glenda Feilen",
+          "published_date": "2028-06-25 17:27:34"
+        },
+        "image_url": "https://i.ytimg.com/vi/_JxVA5eziyk/maxresdefault.jpg",
+        "details": "What you'll learn - By the end of this course you will know how to Feng Shui your home quickly and on a budget, Know what to do to stop your home from draining money, Find out what to place in your home so that you can avoid quarrels and create fulfilling relationships - Learn how to use for a variety of common tasks. Learn how to use regular expressions."
+    },
+    {
+        "_id": "500",
+        "category_id": "2",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_enrolled": 774,
+        "title": "Beginners Crystal Reports 2013 & 2011 Tutorial Video",
+        "author": {
+          "name": "Glenda Feilen",
+          "published_date": "2019-06-25 17:27:34"
+        },
+        "image_url": "https://www.ctstraining.com.au/images/com_eventbooking/categories/Desktop/CrystalReports_Essentials.png",
+        "details": "What you'll learn - By the end of this course you will know how to Feng Shui your home quickly and on a budget, Know what to do to stop your home from draining money, Find out what to place in your home so that you can avoid quarrels and create fulfilling relationships - Learn how to use for a variety of common tasks. Learn how to use regular expressions."
+    },
+    {
+        "_id": "600",
+        "category_id": "3",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_enrolled": 1554,
+        "title": "Photography - Become a Better Photographer - Part I",
+        "author": {
+          "name": "Bernie Raffe AMPA",
+          "published_date": "2020-06-12 17:27:34"
+        },
+        "image_url": "https://signatureedits.com/wp-content/uploads/2018/06/3-10-steps-to-become-a-photographer-copy-800x450.jpg",
+        "details": "What you'll learn - To show how an understanding of light and composition is worth more to you than a whole bagful of camera accessories. To provide tips on getting better flash photos indoors. Raise awareness of the possibilities for taking great photos. To show how to take better photos in specific environments (e.g snow, indoors by a window etc...). To realise the great potential you have for becoming a great photographer."
+    },
+    {
+        "_id": "700",
+        "category_id": "3",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_enrolled": 492,
+        "title": "Basic Food Photography",
+        "author": {
+          "name": "Andrew Olson",
+          "published_date": "2021-06-12 17:27:34"
+        },
+        "image_url": "https://www.visiolearning.co.uk/wp-content/uploads/2021/05/3.-Basic-Food-Photography.jpg",
+        "details": "What you'll learn - How to tell a powerful and engaging story through food photos.How to use props & accents that add depth and complete your scenes.How to use props & accents that add depth and complete your scenes.How to use social media as a food photographer in ways that gain recognition for your pictures. How to style your food in ways that are aesthetically appealing to the camera.How to create and use a variety of surfaces that create dramatic backdrops for your pictures. How to adjust the essential editing effects that make your food photos look more stunning and realistic.How to export and share your photos with the right dimensions and quality settings. "
+    },
+    {
+        "_id": "800",
+        "category_id": "3",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_enrolled": 792,
+        "title": "Mastering Architecture and Real Estate Photography",
+        "author": {
+          "name": "Charlie Borland",
+          "published_date": "2024-06-12 17:27:34"
+        },
+        "image_url": "https://i.ytimg.com/vi/o-r4-N2kqfg/sddefault.jpg",
+        "details": "What you'll learn -Learn a variety of techniques to photograph architecture and real estate properties.How to light with flash or strobe lights. How to achieve perfect interior lighting and exterior lighting. How to find the best angle, light, and composition. How to photograph a room in a house, commercial property, or a hotel. "
+    },
+    {
+        "_id": "900",
+        "category_id": "3",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_enrolled": 792,
+        "title": "Mastering Architecture and Real Estate Photography",
+        "author": {
+          "name": "Charlie Borland",
+          "published_date": "2024-06-12 17:27:34"
+        },
+        "image_url": "https://i.ytimg.com/vi/o-r4-N2kqfg/sddefault.jpg",
+        "details": "What you'll learn -Learn a variety of techniques to photograph architecture and real estate properties.How to light with flash or strobe lights. How to achieve perfect interior lighting and exterior lighting. How to find the best angle, light, and composition. How to photograph a room in a house, commercial property, or a hotel. "
+    },
+    {
+        "_id": "1000",
+        "category_id": "6",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_enrolled": 1122,
+        "title": "Chief Financial Officer Leadership Program",
+        "author": {
+          "name": "Blair Cook CPA, CA MBA Jen Nicholson CPA, CA",
+          "published_date": "2019-06-17 17:27:34"
+        },
+        "image_url": "https://executiveeducation.wharton.upenn.edu/wp-content/uploads/2018/03/CFO-industry.png",
+        "details": "What you'll learn -Analyze financial statements to gain deeper insight into the financial results, profitability, financial strength, and cash return generation potential. Learn about financing strategy including the different varieties of financing, how each work, and when to seek each source of financing. Learn how to make a valuable contribution as the business developes, analyzes, implements, and evaluates corporate strategy. In this course, you will be able to facilitatte development of an Enterprise Risk Management system using the principles of the COSO ERM framework.  In this course, you will learn about fraud risk including how it happens, why it happens, and how to best prevent it from happening in your organization. "
+    },
+    {
+        "_id": "1100",
+        "category_id": "6",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_enrolled": 1190,
+        "title": "Sales and Persuasion Skills for Startups",
+        "author": {
+          "name": "Len Smith",
+          "published_date": "2020-06-17 17:27:34"
+        },
+        "image_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://d2vvqscadf4c1f.cloudfront.net/671.jpg",
+        "details": "What you'll learn - How to get the most out of the course. How to structure a sales call – with you in control. How to structure a sales call – with you in control. Selling ‘off the page’ – a proven way to generate high quality sales leads. How to use features, benefits and advantages – to your own advantage. Three sessions on how to manage objections – turning them into opportunities. Needs vs wants – and how to sell at a premium price. "
+    },
+    {
+        "_id": "1200",
+        "category_id": "6",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_enrolled": 1300,
+        "title": "Customer Service Training",
+        "author": {
+          "name": "WebEucator Training",
+          "published_date": "2023-06-17 17:27:34"
+        },
+        "image_url": "https://www.cgsinc.com/sites/default/files/styles/blog_details/public/media/images/blog/Customer%20Service%20Training_Header.jpg?itok=_bggXl1e",
+        "details": "What you'll learn - This Customer Service training course teaches the basics of customer service and translates that knowledge into practical application. Students will come away from this customer service course knowing how a positive attitude, going a step beyond basic customer service, and dealing effectively with complaints will enhance their work experience. Students will learn the difference between internal and external customers and will learn how the development and implementation of a comprehensive customer service policy promotes consistency in how customers are treated and keeps customers happy."
     }
 
 ]
