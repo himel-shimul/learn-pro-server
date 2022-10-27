@@ -4,6 +4,7 @@
         "category_id": "4",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "total_enrolled": 298,
+        "price": "56.99",
         "title": "AJAX Development",
         "author": {
           "name": "Mark Lassoff",
@@ -17,6 +18,7 @@
         "category_id": "4",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "total_enrolled": 464,
+        "price": "99.99",
         "title": "Learn Perl 5 By Doing It",
         "author": {
           "name": "John Purcell",
@@ -30,6 +32,7 @@
         "category_id": "2",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "total_enrolled": 466,
+        "price": "16.99",
         "title": "Photoshop Master Course: From Beginner to Photoshop Pro",
         "author": {
           "name": "Manfred Werner",
@@ -43,6 +46,7 @@
         "category_id": "2",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "total_enrolled": 364,
+        "price": "10.99",
         "title": "Feng Shui The Easiest Way",
         "author": {
           "name": "Glenda Feilen",
@@ -56,6 +60,7 @@
         "category_id": "2",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "total_enrolled": 774,
+        "price": "89.99",
         "title": "Beginners Crystal Reports 2013 & 2011 Tutorial Video",
         "author": {
           "name": "Glenda Feilen",
@@ -69,6 +74,7 @@
         "category_id": "3",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "total_enrolled": 1554,
+        "price": "59.99",
         "title": "Photography - Become a Better Photographer - Part I",
         "author": {
           "name": "Bernie Raffe AMPA",
@@ -82,6 +88,7 @@
         "category_id": "3",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "total_enrolled": 492,
+        "price": "89.99",
         "title": "Basic Food Photography",
         "author": {
           "name": "Andrew Olson",
@@ -95,6 +102,7 @@
         "category_id": "3",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "total_enrolled": 792,
+        "price": "20.99",
         "title": "Mastering Architecture and Real Estate Photography",
         "author": {
           "name": "Charlie Borland",
@@ -108,6 +116,7 @@
         "category_id": "3",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "total_enrolled": 792,
+        "price": "30.99",
         "title": "Mastering Architecture and Real Estate Photography",
         "author": {
           "name": "Charlie Borland",
@@ -121,6 +130,7 @@
         "category_id": "6",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "total_enrolled": 1122,
+        "price": "59.99",
         "title": "Chief Financial Officer Leadership Program",
         "author": {
           "name": "Blair Cook CPA, CA MBA Jen Nicholson CPA, CA",
@@ -134,6 +144,7 @@
         "category_id": "6",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "total_enrolled": 1190,
+        "price": "90.99",
         "title": "Sales and Persuasion Skills for Startups",
         "author": {
           "name": "Len Smith",
@@ -147,6 +158,7 @@
         "category_id": "6",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "total_enrolled": 1300,
+        "price": "21.99",
         "title": "Customer Service Training",
         "author": {
           "name": "WebEucator Training",
@@ -154,6 +166,48 @@
         },
         "image_url": "https://www.cgsinc.com/sites/default/files/styles/blog_details/public/media/images/blog/Customer%20Service%20Training_Header.jpg?itok=_bggXl1e",
         "details": "What you'll learn - This Customer Service training course teaches the basics of customer service and translates that knowledge into practical application. Students will come away from this customer service course knowing how a positive attitude, going a step beyond basic customer service, and dealing effectively with complaints will enhance their work experience. Students will learn the difference between internal and external customers and will learn how the development and implementation of a comprehensive customer service policy promotes consistency in how customers are treated and keeps customers happy."
+    },
+    {
+        "_id": "1300",
+        "category_id": "5",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_enrolled": 1300,
+        "price": "21.99",
+        "title": "Adventures in Classical Music—Music Appreciation for All!",
+        "author": {
+          "name": "WebEucator Training",
+          "published_date": "2023-06-17 17:27:34"
+        },
+        "image_url": "https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2F8357d235117d.jpg?ar=16%3A9&auto=format&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&w=535&s=67ca52fb8e88ae0883798324d34d74b7",
+        "details": "What you'll learn - This Customer Service training course teaches the basics of customer service and translates that knowledge into practical application. Students will come away from this customer service course knowing how a positive attitude, going a step beyond basic customer service, and dealing effectively with complaints will enhance their work experience. Students will learn the difference between internal and external customers and will learn how the development and implementation of a comprehensive customer service policy promotes consistency in how customers are treated and keeps customers happy."
+    },
+    {
+        "_id": "1500",
+        "category_id": "1",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_enrolled": 1100,
+        "price": "21.99",
+        "title": "Character Art School: Complete Character Drawing",
+        "author": {
+          "name": "WebEucator",
+          "published_date": "2023-06-17 17:27:34"
+        },
+        "image_url": "https://i1.wp.com/coursedrive.org/wp-content/uploads/2019/04/Manga-Art-School-Anime-and-Manga-Character-Drawing-Course.jpg?fit=750%2C422&ssl=1",
+        "details": "What you'll learn - How to Draw Characters Well. How to Draw Characters for Games, Films, Animation, Manga, Comics and More"
+    },
+    {
+        "_id": "1600",
+        "category_id": "7",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_enrolled": 100,
+        "price": "11.99",
+        "title": "The Theory Behind Electronics - A Beginners Guide",
+        "author": {
+          "name": "idan",
+          "published_date": "2023-06-17 17:27:34"
+        },
+        "image_url": "https://static.skillshare.com/uploads/video/thumbnails/440d9ecfdfefadbc5f03c08173d22b90/original",
+        "details": "What you'll learn - Understand the R, L, C building blocks of analog electronics. Understand the applications of Resistors, Capacitors, Inductors, Diodes and Transistors. Develop ideas using a mind mapping software"
     }
 
 ]
