@@ -172,7 +172,7 @@
         "category_id": "5",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "total_enrolled": 1300,
-        "price": "21.99",
+        "price": "20.99",
         "title": "Adventures in Classical Music—Music Appreciation for All!",
         "author": {
           "name": "WebEucator Training",
@@ -199,8 +199,8 @@
         "_id": "1600",
         "category_id": "7",
         "rating": { "number": 4.5, "badge": "Excellent" },
-        "total_enrolled": 100,
-        "price": "11.99",
+        "total_enrolled": 110,
+        "price": "101.99",
         "title": "The Theory Behind Electronics - A Beginners Guide",
         "author": {
           "name": "idan",
